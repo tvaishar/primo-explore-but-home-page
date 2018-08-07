@@ -1,0 +1,9 @@
+/* home page begin */
+
+prm-static + div
+	{
+	flex-basis:20% !important;
+	max-width:20% !important;
+	}
+
+/* home page end */
