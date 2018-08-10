@@ -6,4 +6,14 @@ prm-static + div
 	max-width:20% !important;
 	}
 
+#tweet-card	
+		{
+		flex-basis: 100%;	
+		}
+#tweet-card md-card-content
+		{
+		min-height: 550px;
+		padding-bottom:50px;
+		}
+	
 /* home page end */
