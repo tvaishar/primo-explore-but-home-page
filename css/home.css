@@ -31,13 +31,12 @@ prm-static + div.flex-md-10{
 }
 
 #tweet-card	
-		{
-		flex-basis: 100%;	
-		}
+	{
+	height:100%;
+	display:block;
+	}
 #tweet-card md-card-content
-		{
-		min-height: 550px;
-		padding-bottom:50px;
-		}
-	
+	{
+	height: 400px;	
+	}	
 /* home page end */
